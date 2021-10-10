@@ -13,7 +13,10 @@
     "chai": "^4.3.4",
     "dotnet": "^1.1.4",
     "express": "^4.17.1",
-    "mocha": "^9.1.1",
-    "mongodb": "^4.1.1"
+    "mocha": "^9.1.2",
+    "mongodb": "^4.1.1",
+    "socket.io": "^4.2.0",
+    "text-encoder": "0.0.4",
+    "utf8": "^3.0.0"
   }
 }
